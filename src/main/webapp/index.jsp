@@ -1,8 +1,6 @@
 <html>
 <body>
-<h2>Integration of Jenkins, Docker and Ansible </h2>
-<h2> Configuration Successful </h2>
-<h2> Complete </h2>
+<h2>Succesful Deployment of Ansible,Docker and Jenkins</h2>
 
 </body>
 </html>
